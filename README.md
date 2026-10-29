@@ -31,7 +31,7 @@ This project presents an interactive quiz testing core knowledge in modern softw
 ## Local Setup Instructions
 1. Clone the repository:
    ```bash
-   git clone https://github.com/rpahir2503-star/interactive-quiz-application.git
+   git clone https://github.com/akshayoriginal19-ux/quiz1
    ```
 2. Open the folder:
    ```bash
