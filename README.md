@@ -4,6 +4,7 @@ An interactive, responsive Computer Science & AI quiz web application developed 
 
 ## Live Application
 - **GitHub**: [https://github.com/akshayoriginal19-ux]
+- **deploy live**: [https://quiz1-liard.vercel.app/]
 ## Project Overview
 This project presents an interactive quiz testing core knowledge in modern software engineering, Large Language Models, code version control, testing strategies, and algorithmic complexity.
 
